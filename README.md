@@ -15,7 +15,7 @@
 
 # Sobre o curso 
 
-- Utilizei a API disponibilizada no curso e testei suas rotas através dos requests com o uso dos métodos GET, POST, PUT, PATCH e DELETE .
+- Utilizei a API disponibilizada no curso e testei suas rotas através dos requests com o uso dos métodos GET, POST, PUT, PATCH e DELETE.
 - Criei variáveis na aba Path Variables, utilizei Query Params.
 - Criei alguns testes automatizados através da aba Scrips com a linguagem JavaScrip.
   
